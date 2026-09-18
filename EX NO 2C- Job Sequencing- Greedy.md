@@ -1,6 +1,6 @@
 # EX 2C Job Sequencing using Greedy Approach
 
-## DATE: 05-08-2026
+## DATE: 12-08-2026
 
 ### Developed By: Nithish R
 
