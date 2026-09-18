@@ -1,6 +1,6 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 
-## DATE: 05-08-2026
+## DATE: 12-08-2026
 
 ### Developed By: Nithish R
 
